@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4a4ed061-2d3f-4cc4-a8e7-d4c7c10ff4fb": {
+      "ProjectGuid": "4a4ed061-2d3f-4cc4-a8e7-d4c7c10ff4fb",
+      "DisplayName": "ShopBridge",
+      "ColorIndex": 0
+    },
+    "eec0184b-d9ef-47f0-b920-dc219ad7e2e0": {
+      "ProjectGuid": "eec0184b-d9ef-47f0-b920-dc219ad7e2e0",
+      "DisplayName": "ShopBridgeDataAccess",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

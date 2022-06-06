@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "bNn9hYdIhgJNwA1vG185/BoQjMnud52u8aJwQ3PCa4s=",
+  "Source": "ShopBridge",
+  "BasePath": "_content/ShopBridge",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ShopBridge\\wwwroot",
+      "Source": "ShopBridge",
+      "ContentRoot": "D:\\Projects\\ShopBridge\\ShopBridge\\ShopBridge\\wwwroot\\",
+      "BasePath": "_content/ShopBridge",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\ShopBridge\\ShopBridge\\ShopBridge\\wwwroot\\Images\\157c32ed186641109b3e164f0e825aa7.png",
+      "SourceId": "ShopBridge",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ShopBridge\\ShopBridge\\ShopBridge\\wwwroot\\",
+      "BasePath": "_content/ShopBridge",
+      "RelativePath": "Images/157c32ed186641109b3e164f0e825aa7.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\157c32ed186641109b3e164f0e825aa7.png"
+    },
+    {
+      "Identity": "D:\\Projects\\ShopBridge\\ShopBridge\\ShopBridge\\wwwroot\\Images\\bd8afd2ea1884eb1a7645502b296f376.png",
+      "SourceId": "ShopBridge",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ShopBridge\\ShopBridge\\ShopBridge\\wwwroot\\",
+      "BasePath": "_content/ShopBridge",
+      "RelativePath": "Images/bd8afd2ea1884eb1a7645502b296f376.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\bd8afd2ea1884eb1a7645502b296f376.png"
+    }
+  ]
+}

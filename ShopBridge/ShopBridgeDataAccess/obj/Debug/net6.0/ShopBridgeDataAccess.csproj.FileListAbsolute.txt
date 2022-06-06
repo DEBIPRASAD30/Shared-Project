@@ -1,0 +1,12 @@
+D:\Projects\ShopBridge\ShopBridge\ShopBridgeDataAccess\bin\Debug\net6.0\ShopBridgeDataAccess.deps.json
+D:\Projects\ShopBridge\ShopBridge\ShopBridgeDataAccess\bin\Debug\net6.0\ShopBridgeDataAccess.dll
+D:\Projects\ShopBridge\ShopBridge\ShopBridgeDataAccess\bin\Debug\net6.0\ref\ShopBridgeDataAccess.dll
+D:\Projects\ShopBridge\ShopBridge\ShopBridgeDataAccess\bin\Debug\net6.0\ShopBridgeDataAccess.pdb
+D:\Projects\ShopBridge\ShopBridge\ShopBridgeDataAccess\obj\Debug\net6.0\ShopBridgeDataAccess.csproj.AssemblyReference.cache
+D:\Projects\ShopBridge\ShopBridge\ShopBridgeDataAccess\obj\Debug\net6.0\ShopBridgeDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ShopBridge\ShopBridge\ShopBridgeDataAccess\obj\Debug\net6.0\ShopBridgeDataAccess.AssemblyInfoInputs.cache
+D:\Projects\ShopBridge\ShopBridge\ShopBridgeDataAccess\obj\Debug\net6.0\ShopBridgeDataAccess.AssemblyInfo.cs
+D:\Projects\ShopBridge\ShopBridge\ShopBridgeDataAccess\obj\Debug\net6.0\ShopBridgeDataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\ShopBridge\ShopBridge\ShopBridgeDataAccess\obj\Debug\net6.0\ShopBridgeDataAccess.dll
+D:\Projects\ShopBridge\ShopBridge\ShopBridgeDataAccess\obj\Debug\net6.0\ref\ShopBridgeDataAccess.dll
+D:\Projects\ShopBridge\ShopBridge\ShopBridgeDataAccess\obj\Debug\net6.0\ShopBridgeDataAccess.pdb
